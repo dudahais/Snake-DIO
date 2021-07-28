@@ -1,0 +1,12 @@
+  
+body{
+    height: 95vh;
+    width: 95vw;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: #fdf9f9;
+    color: rgb(128, 211, 128);
+    font-family: 'Varela Round', sans-serif;
+}
